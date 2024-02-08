@@ -2,7 +2,7 @@
 
 Daily entries about what I've learned on my coding journey!
 
-**08/02/2024**
+<span style="font-size: larger;">**08/02/2024**</span>
 
 Today I learned:
 
