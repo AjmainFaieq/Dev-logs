@@ -1,6 +1,6 @@
 # Dev-logs
 
-Daily entries about what I've learned on my coding journey!
+Daily entries about what I am learning on my coding journey!
 
 <h2>08/02/2024</h2>
 
