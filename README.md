@@ -17,3 +17,9 @@ Today I:
 - learned different Http headers for both response and request.
 - learned different Http request methods and the difference between get and post.
 - Used postman service to practice how to use request body to put data into server.
+
+<h2>10/02/2024</h2>
+
+Today I:
+
+- learned middleware portion of MVC.Specifically topics like custom middleware extension and custom middleware class.
