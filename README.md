@@ -24,3 +24,9 @@ Today I:
 
 - learned middleware portion of MVC.Specifically topics like custom middleware extension and custom middleware class.
 - learned the correct order of using middleware and Usewhen.
+
+<h2>11/02/2024</h2>
+
+Today I:
+
+- Did not learn anything new.
