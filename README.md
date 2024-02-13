@@ -30,3 +30,10 @@ Today I:
 Today I:
 
 - Did not learn anything new.
+
+<h2>12/02/2024</h2>
+
+Today I:
+
+- Finished whatever was left from learning middleware
+- Learned a little bit about how routing is done in asp.net Core
