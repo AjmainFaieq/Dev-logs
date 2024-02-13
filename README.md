@@ -35,11 +35,11 @@ Today I:
 
 Today I:
 
-- Finished whatever was left from learning middleware
-- Learned a little bit about how routing is done in asp.net Core
+- Finished whatever was left from learning middleware.
+- Learned a little bit about how routing is done in asp.net Core.
 
 <h2>13/02/2024</h2>
 
 Today I:
 
-- Did not learn anything new due to constant load shedding
+- Did not learn anything new due to constant load shedding.
