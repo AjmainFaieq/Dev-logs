@@ -43,3 +43,11 @@ Today I:
 Today I:
 
 - Did not learn anything new due to constant load shedding.
+
+<h2>14/02/2024</h2>
+
+Today I:
+
+- Learned different routing system that exists in asp.net Core
+- Specifically routing system like Map,MapGet,MapPost etc
+- learned about route,default and optional parameters
