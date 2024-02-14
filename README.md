@@ -48,6 +48,6 @@ Today I:
 
 Today I:
 
-- Learned different routing system that exists in asp.net Core
-- Specifically routing system like Map,MapGet,MapPost etc
-- learned about route,default and optional parameters
+- Learned different routing system that exists in asp.net Core.
+- Specifically routing system like Map,MapGet,MapPost etc.
+- learned about route,default and optional parameters.
