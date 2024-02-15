@@ -56,5 +56,5 @@ Today I:
 
 Today I:
 
-- Decided to learn C# better as i felt without a proper understanding of C#, i cannot properly understand Asp.net Core
-- Learned many fundamental things about .NET such as CLI,CLR,.NET framework,.NET core
+- Decided to learn C# better as i felt without a proper understanding of C#, i cannot properly understand Asp.net Core.
+- Learned many fundamental things about .NET such as CLI,CLR,.NET framework,.NET core.
