@@ -51,3 +51,11 @@ Today I:
 - Learned different routing system that exists in asp.net Core.
 - Specifically routing system like Map,MapGet,MapPost etc.
 - learned about route,default and optional parameters.
+
+<h2>15/02/2024</h2>
+
+Today I:
+
+- Decided to learn C# better as i felt without a proper understanding of C#, i cannot properly understand Asp.net Core
+
+- Learned many fundamental things about .NET such as CLI,CLR,.NET framework,.NET core
