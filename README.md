@@ -61,6 +61,6 @@ Today I:
 
 <h2>16/02/2024</h2>
 
-- learned the basics of C# again like loops,variables and methods
+- learned the basics of C# again like loops,variables and methods.
 
-- started working with a project that deals with banking in the console that deals with a basic CRUD functionality
+- started working with a project that deals with banking in the console which deals with a basic CRUD functionality.
