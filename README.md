@@ -67,4 +67,4 @@ Today I:
 
 <h2>17/02/2024</h2>
 
-- Did not learn anything today
+- Did not learn anything today.
