@@ -71,5 +71,5 @@ Today I:
 
 <h3>18/02/2024</h3>
 
-- Started learning Object Oriented Programming in C#
-- Learned Abstraction,Data hiding,encapsulation and method overloading
+- Started learning Object Oriented Programming in C#.
+- Learned Abstraction,Data hiding,encapsulation and method overloading.
