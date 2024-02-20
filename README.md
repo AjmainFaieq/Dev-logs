@@ -80,5 +80,5 @@ Today I:
 
 <h4>20/02/2024</h4>
 
-- Learned a bit about prompting
-- Generated a video on VR Bangladesh by using chatgpt to create the artwork and script,used gen 2 to create videos and elevenlabs ai to create audio and finally used canva to combine everything together
+- Learned a bit about prompting.
+- Generated a video on VR Bangladesh by using chatgpt to create the artwork and script,used gen 2 to create videos and elevenlabs ai to create audio and finally used canva to combine everything together.
