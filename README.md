@@ -85,4 +85,4 @@ Today I:
 
 <h4>23/02/2024</h4>
 
-- learned a bit about prompt engineering
+- learned a bit about prompt engineering.
