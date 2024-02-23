@@ -91,6 +91,10 @@ Today I:
 
 - Did not learn anything today.
 
+<h4>22/02/2024</h4>
+
+- Did not learn anything today.
+
 <h4>23/02/2024</h4>
 
 - learned a bit about prompt engineering.
