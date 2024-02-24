@@ -94,3 +94,7 @@ Today I:
 <h4>23/02/2024</h4>
 
 - learned a bit about prompt engineering.
+
+<h4>24/02/2024</h4>
+
+- learned various prompt engineering things like role prompting,shot prompting,combinating prompts and chain of thought prompt
