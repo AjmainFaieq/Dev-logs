@@ -98,3 +98,7 @@ Today I:
 <h4>24/02/2024</h4>
 
 - learned various prompt engineering things like role prompting,shot prompting,combinating prompts and chain of thought prompt.
+
+<h4>25/02/2024</h4>
+
+-learnt self consistent prompt,tree of thought,reverse engineering prompt,sequence propmting and also self criticism
