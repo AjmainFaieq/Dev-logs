@@ -101,4 +101,4 @@ Today I:
 
 <h4>25/02/2024</h4>
 
--learnt self consistent prompt,tree of thought,reverse engineering prompt,sequence propmting and also self criticism
+-learnt self consistent prompt,tree of thought,reverse engineering prompt,sequence propmting and also self criticism.
