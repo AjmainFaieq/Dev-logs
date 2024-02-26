@@ -105,6 +105,6 @@ Today I:
 
 <h4>26/02/2024</h4>
 
-- learned reverse prompt engineering,sequence propmting and self criticism prompt
+- learned reverse prompt engineering,sequence propmting and self criticism prompt.
 
-- learned how chatgpt can be used in real world situations such as interviewing,content creation and SE0
+- learned how chatgpt can be used in real world situations such as interviewing,content creation and SE0.
