@@ -108,3 +108,7 @@ Today I:
 - learned reverse prompt engineering,sequence propmting and self criticism prompt.
 
 - learned how chatgpt can be used in real world situations such as interviewing,content creation and SE0.
+
+<h4>27/02/2024</h4>
+
+- learned various chatgpt plugins
