@@ -111,4 +111,4 @@ Today I:
 
 <h4>27/02/2024</h4>
 
-- learned various chatgpt plugins
+- learned various chatgpt plugins.
