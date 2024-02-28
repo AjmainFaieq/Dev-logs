@@ -112,3 +112,7 @@ Today I:
 <h4>27/02/2024</h4>
 
 - learned various chatgpt plugins.
+
+<h4>28/02/2024</h4>
+
+- learned about Google colab,computer vision, and advanced data analysis
