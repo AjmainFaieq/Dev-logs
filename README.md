@@ -115,4 +115,4 @@ Today I:
 
 <h4>28/02/2024</h4>
 
-- learned about Google colab,computer vision, and advanced data analysis
+- learned about Google colab,computer vision, and advanced data analysis.
