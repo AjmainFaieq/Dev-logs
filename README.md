@@ -78,45 +78,45 @@ Today I:
 
 - Did not learn anything today.
 
-<h4>20/02/2024</h4>
+<h2>20/02/2024</h2>
 
 - Learned a bit about prompting.
 - Generated a video on VR Bangladesh by using chatgpt to create the artwork and script,used gen 2 to create videos and elevenlabs ai to create audio and finally used canva to combine everything together.
 
-<h4>21/02/2024</h4>
+<h2>21/02/2024</h2>
 
 - Did not learn anything today.
 
-<h4>22/02/2024</h4>
+<h2>22/02/2024</h2>
 
 - Did not learn anything today.
 
-<h4>23/02/2024</h4>
+<h2>23/02/2024</h2>
 
 - learned a bit about prompt engineering.
 
-<h4>24/02/2024</h4>
+<h2>24/02/2024</h2>
 
 - learned various prompt engineering things like role prompting,shot prompting,combinating prompts and chain of thought prompt.
 
-<h4>25/02/2024</h4>
+<h2>25/02/2024</h2>
 
 - learnt self consistent prompt,tree of thought,reverse engineering prompt,sequence propmting and also self criticism.
 
-<h4>26/02/2024</h4>
+<h2>26/02/2024</h2>
 
 - learned reverse prompt engineering,sequence propmting and self criticism prompt.
 
 - learned how chatgpt can be used in real world situations such as interviewing,content creation and SE0.
 
-<h4>27/02/2024</h4>
+<h2>27/02/2024</h2>
 
 - learned various chatgpt plugins.
 
-<h4>28/02/2024</h4>
+<h2>28/02/2024</h2>
 
 - learned about Google colab,computer vision, and advanced data analysis.
 
-<h4>29/02/2024</h4>
+<h2>29/02/2024</h2>
 
 - learned about GPT,how to make custom GPT and how to automate tasks using zapier.
