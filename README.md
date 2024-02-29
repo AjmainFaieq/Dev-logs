@@ -116,3 +116,7 @@ Today I:
 <h4>28/02/2024</h4>
 
 - learned about Google colab,computer vision, and advanced data analysis.
+
+<h4>29/02/2024</h4>
+
+- learned about GPT,how to make custom GPT and how to automate tasks using zapier
