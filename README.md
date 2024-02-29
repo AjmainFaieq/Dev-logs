@@ -69,12 +69,12 @@ Today I:
 
 - Did not learn anything today.
 
-<h3>18/02/2024</h3>
+<h2>18/02/2024</h2>
 
 - Started learning Object Oriented Programming in C#.
 - Learned Abstraction,Data hiding,encapsulation and method overloading.
 
-<h3>19/02/2024</h3>
+<h2>19/02/2024</h2>
 
 - Did not learn anything today.
 
