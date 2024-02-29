@@ -119,4 +119,4 @@ Today I:
 
 <h4>29/02/2024</h4>
 
-- learned about GPT,how to make custom GPT and how to automate tasks using zapier
+- learned about GPT,how to make custom GPT and how to automate tasks using zapier.
