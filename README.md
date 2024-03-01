@@ -123,5 +123,5 @@ Today I:
 
 <h2>30/02/2024</h2>
 
-- tried to make my own custom GPT
-- made a chatbot using flowise platform
+- tried to make my own custom GPT.
+- made a chatbot using flowise platform.
