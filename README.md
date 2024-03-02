@@ -128,4 +128,4 @@ Today I:
 
 <h2>02/03/2024</h2>
 
-- Did not learn much new topics
+- Did not learn much new topics.
