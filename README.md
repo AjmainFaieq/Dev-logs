@@ -125,3 +125,7 @@ Today I:
 
 - tried to make my own custom GPT.
 - made a chatbot using flowise platform.
+
+<h2>02/03/2024</h2>
+
+- Did not learn much new topics
