@@ -140,4 +140,4 @@ Today I:
 
 <h2>05/03/2024</h2>
 
-- Learned about huggin face,huggin chat.Also about open source platform like mistral,llama
+- Learned about huggin face,huggin chat.Also about open source platform like mistral,llama.
